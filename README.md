@@ -13,10 +13,12 @@ Coding Practice - LeetCode, Automatically Sync
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +77,12 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+## String
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
