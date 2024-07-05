@@ -12,6 +12,7 @@ class Solution(object):
             answer.append(s[temp:idx])
             temp = idx
 
-        return ' '.join(answer + [s[temp:]])
+        answer += [s[temp:]]
+        return ' '.join(answer)
 
         
