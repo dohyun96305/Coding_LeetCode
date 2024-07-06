@@ -8,7 +8,8 @@ class Solution(object):
 
         if '0000' in deadends : 
             return -1
-        def turn_digit(num1, deadends) : 
+
+        def turn_digit(num1) : 
             temp = []
 
             for i in range(4): 
@@ -25,11 +26,8 @@ class Solution(object):
                 num1_plus = num1[:i] + k_plus + num1[i+1:]
                 num1_minus = num1[:i] + k_minus + num1[i+1:] 
 
-                if num1_plus not in deadends : 
-                    temp.append(num1_plus)
-
-                if num1_minus not in deadends : 
-                    temp.append(num1_minus)
+                temp.append(num1_plus)
+                temp.append(num1_minus)
 
             return temp
 
@@ -39,8 +37,7 @@ class Solution(object):
 
         while temp : 
             digit, turn = temp.popleft()
-            digit_list = turn_digit(digit, deadends)
-
+            digit_list = turn_digit(digit)
             if digit == target : 
                 return turn 
 
