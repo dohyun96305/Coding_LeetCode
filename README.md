@@ -98,4 +98,8 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2645-pass-the-pillow) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
