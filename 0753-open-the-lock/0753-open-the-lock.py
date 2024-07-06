@@ -13,15 +13,8 @@ class Solution(object):
             temp = []
 
             for i in range(4): 
-                if int(num1[i])+1 > 9 : 
-                    k_plus = '0'
-                else : 
-                    k_plus = str(int(num1[i])+1)
-
-                if int(num1[i])-1 < 0 : 
-                    k_minus = '9'
-                else : 
-                    k_minus = str(int(num1[i])-1)
+                k_plus = str((int(num1[i])+1) % 10)
+                k_minus = str((int(num1[i])-1) % 10)
 
                 num1_plus = num1[:i] + k_plus + num1[i+1:]
                 num1_minus = num1[:i] + k_minus + num1[i+1:] 
@@ -38,6 +31,7 @@ class Solution(object):
         while temp : 
             digit, turn = temp.popleft()
             digit_list = turn_digit(digit)
+
             if digit == target : 
                 return turn 
 
