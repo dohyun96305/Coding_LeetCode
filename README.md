@@ -53,12 +53,14 @@ Coding Practice - LeetCode, Automatically Sync
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +105,5 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
