@@ -5,10 +5,8 @@ class Solution(object):
         :type time: int
         :rtype: int
         """
-        temp = ((n-1) * 2) 
-        temp_n = time % temp
-        print(temp_n)
-        
+        temp_n = time % ((n-1) * 2) 
+
         if temp_n < n : 
             return temp_n + 1
         else : 
