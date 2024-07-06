@@ -5,8 +5,7 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        nums1.sort()
-        nums2.sort()
+
         i, j = 0, 0
 
         while i < len(nums1) and j < len(nums2) : 
