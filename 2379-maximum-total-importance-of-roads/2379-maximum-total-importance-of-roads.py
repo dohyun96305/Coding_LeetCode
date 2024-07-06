@@ -6,22 +6,23 @@ class Solution(object):
         :rtype: int
         """
         answer = 0
-        cities = [[x, 0] for x in range(n)]
-        imp = [0] * n
+        cities = [0] * n
+        imp = [x for x in range(n)]
+        values = [0] * n
 
         for a, b in roads : 
-            cities[a][1] += 1
-            cities[b][1] += 1
+            cities[a] += 1
+            cities[b] += 1
 
-        cities.sort(key = lambda x : -x[1])
-
-        count = n
-        for a, b in cities : 
-            imp[a] = n
-            n -= 1
+        imp.sort(key = lambda x : -cities[x])
         
+        
+        for a in imp : 
+            values[a] = n
+            n -= 1
+
         for a, b in roads : 
-            answer += (imp[a] + imp[b])
+            answer += (values[a] + values[b])
 
         return answer
         
