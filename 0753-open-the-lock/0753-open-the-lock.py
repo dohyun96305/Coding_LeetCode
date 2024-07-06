@@ -30,12 +30,11 @@ class Solution(object):
 
         while temp : 
             digit, turn = temp.popleft()
-            digit_list = turn_digit(digit)
 
             if digit == target : 
                 return turn 
 
-            for a in digit_list : 
+            for a in turn_digit(digit) : 
                 if a not in deadends :
                     deadends.add(a)
                     temp.append([a, turn+1])
