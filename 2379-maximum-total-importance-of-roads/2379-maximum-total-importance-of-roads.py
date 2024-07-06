@@ -6,21 +6,22 @@ class Solution(object):
         :rtype: int
         """
         answer = 0
-        temp = [[x, 0] for x in range(n)]
+        cities = [[x, 0] for x in range(n)]
+        imp = [0] * n
 
         for a, b in roads : 
-            temp[a][1] += 1
-            temp[b][1] += 1
+            cities[a][1] += 1
+            cities[b][1] += 1
 
-        temp.sort(key = lambda x : -x[1])
+        cities.sort(key = lambda x : -x[1])
 
-        for imp in range(1, n+1) : 
-            temp[imp-1][1] = (n-imp) + 1
-
-        temp.sort(key = lambda x : x[0])
-                
+        count = n
+        for a, b in cities : 
+            imp[a] = n
+            n -= 1
+        
         for a, b in roads : 
-            answer += (temp[a][1] + temp[b][1])
+            answer += (imp[a] + imp[b])
 
         return answer
         
