@@ -9,5 +9,6 @@ class Solution(object):
 
         if temp_n < n : 
             return temp_n + 1
+            
         else : 
             return n - (temp_n - n) - 1
