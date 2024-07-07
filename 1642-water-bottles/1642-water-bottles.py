@@ -10,13 +10,15 @@ class Solution(object):
 
         while True : 
             answer += numBottles
-            temp_full = numBottles // numExchange
+            a, b = divmod(numBottles, numExchange)
+            
+            temp_full = a
+            temp_empty += b
+            c, d = divmod(temp_empty, numExchange)
 
-            temp_empty += numBottles % numExchange
-
-            if temp_empty // numExchange > 0 : 
-                temp_full += temp_empty // numExchange
-                temp_empty = temp_empty % numExchange
+            if c > 0 : 
+                temp_full += c
+                temp_empty = d
 
             if temp_full != 0 : 
                 numBottles = temp_full
