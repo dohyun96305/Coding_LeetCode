@@ -95,11 +95,13 @@ Coding Practice - LeetCode, Automatically Sync
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2645-pass-the-pillow) |
 ## Graph
 |  |
