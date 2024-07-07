@@ -14,6 +14,7 @@ class Solution(object):
             
             temp_full = a
             temp_empty += b
+
             c, d = divmod(temp_empty, numExchange)
 
             if c > 0 : 
@@ -26,6 +27,3 @@ class Solution(object):
                 break
 
         return answer
-
-
-        
