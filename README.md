@@ -91,6 +91,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -108,4 +109,8 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
