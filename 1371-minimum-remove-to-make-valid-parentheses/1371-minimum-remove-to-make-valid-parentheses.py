@@ -22,8 +22,8 @@ class Solution(object):
                 else : 
                     remove_list[i] = 1
 
-        for i in temp : 
-            remove_list[i] = 1
+        while temp : 
+            remove_list[temp.pop()] = 1
 
         for i in range(len_s) : 
             if remove_list[i] != 1 : 
