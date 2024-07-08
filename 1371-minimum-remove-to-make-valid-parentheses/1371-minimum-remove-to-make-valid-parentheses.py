@@ -4,11 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        len_s = len(s)
         s_list = list(s)
         temp = []
 
-        for i in range(len_s) : 
+        for i in range(len(s)) : 
             if s[i] == '(' : 
                 temp.append(i)
 
