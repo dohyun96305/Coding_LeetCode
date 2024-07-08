@@ -21,7 +21,7 @@ class Solution(object):
                 else : 
                     temp_list2.append(i)
 
-        remove_list = sorted(temp_list1 + temp_list2)
+        remove_list = temp_list1 + temp_list2
         answer = ''
 
         for i in range(len_s) : 
