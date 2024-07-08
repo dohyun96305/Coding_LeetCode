@@ -5,27 +5,28 @@ class Solution(object):
         :rtype: str
         """
         len_s = len(s)
-        temp_list1 = []
-        temp_list2 = []
+        temp = []
+        remove_list = [0] * len_s
+        answer = ''
 
         for i in range(len_s) : 
             if s[i].islower() : 
                 continue
             
             if s[i] == '(' : 
-                temp_list1.append(i)
+                temp.append(i)
 
             else : 
-                if temp_list1 : 
-                    temp_list1.pop()
+                if temp : 
+                    temp.pop()
                 else : 
-                    temp_list2.append(i)
+                    remove_list[i] = 1
 
-        remove_list = temp_list1 + temp_list2
-        answer = ''
+        for i in temp : 
+            remove_list[i] = 1
 
         for i in range(len_s) : 
-            if i not in remove_list : 
+            if remove_list[i] != 1 : 
                 answer += s[i]
 
         return answer
