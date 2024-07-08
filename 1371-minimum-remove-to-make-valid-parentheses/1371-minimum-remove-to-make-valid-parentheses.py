@@ -10,17 +10,17 @@ class Solution(object):
         answer = ''
 
         for i in range(len_s) : 
-            if s[i].islower() : 
-                continue
-            
             if s[i] == '(' : 
                 temp.append(i)
 
-            else : 
+            elif s[i] == ')' : 
                 if temp : 
                     temp.pop()
                 else : 
                     remove_list[i] = 1
+            
+            else : 
+                continue
 
         while temp : 
             remove_list[temp.pop()] = 1
