@@ -5,9 +5,8 @@ class Solution(object):
         :rtype: str
         """
         len_s = len(s)
+        s_list = list(s)
         temp = []
-        remove_list = [0] * len_s
-        answer = ''
 
         for i in range(len_s) : 
             if s[i] == '(' : 
@@ -17,16 +16,12 @@ class Solution(object):
                 if temp : 
                     temp.pop()
                 else : 
-                    remove_list[i] = 1
+                    s_list[i] = ''
             
             else : 
                 continue
 
         while temp : 
-            remove_list[temp.pop()] = 1
+            s_list[temp.pop()] = ''
 
-        for i in range(len_s) : 
-            if remove_list[i] != 1 : 
-                answer += s[i]
-
-        return answer
+        return ''.join(s_list)
