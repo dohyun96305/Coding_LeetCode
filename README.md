@@ -11,6 +11,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
@@ -23,6 +24,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -30,6 +32,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -63,6 +66,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Sorting
 |  |
 | ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
@@ -85,6 +89,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
 |  |
