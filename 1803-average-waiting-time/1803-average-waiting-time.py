@@ -14,7 +14,6 @@ class Solution(object):
                 time = a
                 temp += b    
             time += b 
-            print(temp)
 
         return temp / len(customers)
         
