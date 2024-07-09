@@ -9,13 +9,11 @@ class Solution(object):
         n = len(arr)
 
         for i in range(n-1):
-            res = float(arr[i])/float(arr[-1])
-            heappush(heap,(res,i,n-1))
+            heappush(heap,(float(arr[i])/float(arr[-1]),i,n-1))
         
         for i in range(k-1):
             res,l,r = heappop(heap)
-            res = float(arr[l])/float(arr[r-1])
-            heappush(heap,(res,l,r-1))
+            heappush(heap,(float(arr[l])/float(arr[r-1]),l,r-1))
 
         res,l,r = heappop(heap)
 
