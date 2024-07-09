@@ -5,15 +5,16 @@ class Solution(object):
         :rtype: float
         """
         time = customers[0][0]
-        temp = 0.0
+        answer = 0.0
 
         for a, b in customers : 
             if time > a : 
-                temp += (time + b - a)
+                answer += (time + b - a)
             else : 
                 time = a
-                temp += b    
+                answer += b
+
             time += b 
 
-        return temp / len(customers)
+        return answer / len(customers)
         
