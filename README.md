@@ -6,6 +6,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Array
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -37,6 +38,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Matrix
 |  |
@@ -46,6 +48,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
@@ -86,14 +89,17 @@ Coding Practice - LeetCode, Automatically Sync
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -122,4 +128,8 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
