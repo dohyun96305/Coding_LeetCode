@@ -14,6 +14,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
@@ -97,6 +98,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
