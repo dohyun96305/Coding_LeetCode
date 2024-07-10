@@ -140,5 +140,6 @@ Coding Practice - LeetCode, Automatically Sync
 ## Database
 |  |
 | ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
