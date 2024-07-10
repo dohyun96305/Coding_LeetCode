@@ -140,6 +140,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Database
 |  |
 | ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0626-exchange-seats) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
