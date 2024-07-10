@@ -140,6 +140,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1625-group-sold-products-by-the-date) |
