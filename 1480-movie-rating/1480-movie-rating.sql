@@ -1,0 +1,20 @@
+# Write your MySQL query statement below
+
+(SELECT NAME AS RESULTS
+FROM MOVIERATING AS A1
+JOIN USERS AS A2 USING(USER_ID)
+GROUP BY USER_ID
+ORDER BY COUNT(*) DESC, NAME
+LIMIT 1)
+
+UNION ALL
+
+(SELECT TITLE AS RESULTS
+FROM MOVIERATING AS A3
+JOIN MOVIES AS A4 USING(MOVIE_ID)
+WHERE DATE_FORMAT(CREATED_AT, '%Y-%m') = '2020-02'
+GROUP BY MOVIE_ID
+ORDER BY AVG(RATING) DESC, TITLE
+LIMIT 1)
+# name user who rated the greatest number of movies, ties => lexicographically smaller
+# hightest averages rating in 2020-02
