@@ -144,6 +144,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0626-exchange-seats](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0626-exchange-seats) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1415-students-and-examinations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1625-group-sold-products-by-the-date) |
