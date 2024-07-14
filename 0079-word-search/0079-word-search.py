@@ -8,8 +8,6 @@ class Solution(object):
         lx = len(board)
         ly = len(board[0])
 
-        visited = [[0] * ly for _ in range(lx)]
-
         dx = [1, -1, 0, 0]
         dy = [0, 0, 1, -1]
 
@@ -21,20 +19,20 @@ class Solution(object):
                 nx = x + dx[i]
                 ny = y + dy[i]
 
-                if 0 <= nx < lx and 0 <= ny < ly and board[nx][ny] == word[idx] and not visited[nx][ny]:
-                    visited[nx][ny] = 1
+                if 0 <= nx < lx and 0 <= ny < ly and board[nx][ny] == word[idx]:
+                    temp, board[nx][ny] = board[nx][ny], '#'  # Mark as visited
                     if dfs(nx, ny, idx + 1):
                         return True
-                    visited[nx][ny] = 0
+                    board[nx][ny] = temp  # Restore original value
 
             return False
 
         for i in range(lx):
             for j in range(ly):
                 if board[i][j] == word[0]:
-                    visited[i][j] = 1
+                    temp, board[i][j] = board[i][j], '#'  # Mark as visited
                     if dfs(i, j, 1):
                         return True
-                    visited[i][j] = 0
+                    board[i][j] = temp  # Restore original value
         
         return False
