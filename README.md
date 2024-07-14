@@ -6,6 +6,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -41,11 +42,13 @@ Coding Practice - LeetCode, Automatically Sync
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Hash Table
@@ -104,6 +107,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
