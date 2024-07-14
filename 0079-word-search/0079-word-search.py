@@ -30,9 +30,9 @@ class Solution(object):
         for i in range(lx):
             for j in range(ly):
                 if board[i][j] == word[0]:
-                    temp, board[i][j] = board[i][j], ''  # Mark as visited
+                    temp, board[i][j] = board[i][j], '' 
                     if dfs(i, j, 1):
                         return True
-                    board[i][j] = temp  # Restore original value
+                    board[i][j] = temp 
         
         return False
