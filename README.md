@@ -151,6 +151,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1480-movie-rating](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
