@@ -140,6 +140,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
