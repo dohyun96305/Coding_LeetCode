@@ -21,6 +21,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1803-average-waiting-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
