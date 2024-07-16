@@ -60,6 +60,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
+| [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
@@ -75,6 +76,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
@@ -116,6 +118,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
+| [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
