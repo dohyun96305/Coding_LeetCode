@@ -59,6 +59,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
+| [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
@@ -67,6 +68,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -117,6 +119,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
+| [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
