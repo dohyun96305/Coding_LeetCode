@@ -5,8 +5,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         answer = []
-        curr = []
-        self.generate(nums, 0, curr, answer)
+        self.generate(nums, 0, [], answer)
         return answer
 
     def generate(self, nums, index, curr, answer) : 
