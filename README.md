@@ -6,6 +6,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
@@ -26,6 +27,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -107,6 +109,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Memoization
@@ -144,6 +147,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Counting Sort
 |  |
@@ -179,4 +183,8 @@ Coding Practice - LeetCode, Automatically Sync
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
