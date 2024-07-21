@@ -168,6 +168,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0177-nth-highest-salary](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0595-big-countries) |
