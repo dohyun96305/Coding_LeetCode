@@ -17,9 +17,10 @@ WITH GRADE_CALI AS (
     FROM NEWYORK
 )
 
-SELECT CASE
-    WHEN A.NUM1 > B.NUM2 THEN "California University"
-    WHEN A.NUM1 < B.NUM2 THEN "New York University"
-    ELSE "No Winner" 
+SELECT 
+    CASE
+        WHEN A.NUM1 > B.NUM2 THEN "California University"
+        WHEN A.NUM1 < B.NUM2 THEN "New York University"
+        ELSE "No Winner" 
     END AS "winner"
 FROM GRADE_CALI AS A, GRADE_YORK AS B
