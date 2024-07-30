@@ -176,6 +176,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0626-exchange-seats) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
+| [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1452-restaurant-growth) |
