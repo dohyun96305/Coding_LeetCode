@@ -8,7 +8,7 @@ class Solution(object):
         n = len(nums)
         inf = 1e99
 
-        dp = [inf] * n
+        dp = [float('inf')] * n
         dp[0] = 0
 
         temp_asc = []
