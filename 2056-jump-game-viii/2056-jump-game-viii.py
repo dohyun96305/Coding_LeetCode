@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        inf = 1e99
 
         dp = [float('inf')] * n
         dp[0] = 0
