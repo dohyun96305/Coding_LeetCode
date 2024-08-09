@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         def check(x, y, grid) :
-            num_check = set()       # num_check
+            num_check = [False] * 10
             sum_row = [0] * 3       # row_sum
             sum_col = [0] * 3       # col_sum
             diag_1, diag_2 = 0, 0   # diag_check
@@ -15,10 +15,10 @@ class Solution(object):
                     if grid[x+i][y+j] < 1 or grid[x+i][y+j] > 9 : 
                         return False
 
-                    if grid[x+i][y+j] in num_check : 
+                    if num_check[grid[x+i][y+j]] == True : 
                         return False
 
-                    num_check.add(grid[x+i][y+j]) # num_check
+                    num_check[grid[x+i][y+j]] = True # num_check
                     sum_row[i] += grid[x+i][y+j]  # row_sum
                     sum_col[j] += grid[x+i][y+j]  # col_sum
 
