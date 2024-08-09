@@ -23,7 +23,7 @@ class Solution(object):
                     sum_col[j] += grid[x+i][y+j]  # col_sum
 
                 diag_1 += grid[x+i][y+i]
-                diag_2 += grid[x+2-i][y+2-1]
+                diag_2 += grid[x+2-i][y+2-i]
 
             for i in range(3) : 
                 if sum_row[i] != 15 or sum_col[i] != 15 or diag_1 != 15 or diag_2 != 15: 
