@@ -4,7 +4,7 @@ class Solution(object):
         :type grid: List[List[int]]
         :rtype: int
         """
-        def check(x, y, grid) :
+        def check(x, y) :
             num_check = [False] * 10
             sum_row = [0] * 3       # row_sum
             sum_col = [0] * 3       # col_sum
@@ -39,7 +39,7 @@ class Solution(object):
 
         for i in range(0, x-2) : 
             for j in range(0, y-2) : 
-                if check(i, j, grid) : 
+                if check(i, j) : 
                     answer += 1
 
         return answer
