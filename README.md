@@ -215,6 +215,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2643-concatenate-the-name-and-the-profession](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [3156-rolling-average-steps](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3156-rolling-average-steps) |
+| [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3300-friday-purchases-i) |
 ## Monotonic Stack
 |  |
