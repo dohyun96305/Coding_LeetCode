@@ -6,6 +6,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
@@ -67,6 +68,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
