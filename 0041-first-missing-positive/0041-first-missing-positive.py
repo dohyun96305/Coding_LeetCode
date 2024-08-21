@@ -8,19 +8,18 @@ class Solution(object):
         hash = {}
         temp = 0
 
-        nums = list(set(nums))
-        nums.sort()
-
         for i in nums : 
-            if i <= 0 : 
-                pass 
-
+            if i in hash or i <= 0:
+                pass
             else : 
-                if i == temp + 1 : 
-                    temp = i
-                else : 
-                    break
+                hash[i] = 1
+
+        hash = sorted(hash.items(), key = lambda x : x[0] )
+
+        for key, value in hash :
+            if key == temp + 1 : 
+                temp = key
+            else : 
+                break
 
         return temp + 1
-                
-      
