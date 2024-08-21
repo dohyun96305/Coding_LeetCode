@@ -14,6 +14,7 @@ class Solution(object):
         for i in nums : 
             if i <= 0 : 
                 pass 
+
             else : 
                 if i == temp + 1 : 
                     temp = i
