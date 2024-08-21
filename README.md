@@ -192,6 +192,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
+| [1269-market-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1269-market-analysis-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 | [1415-students-and-examinations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1415-students-and-examinations) |
 | [1425-weather-type-in-each-country](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1425-weather-type-in-each-country) |
