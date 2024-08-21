@@ -4,23 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+
+        # Cycle Sort
+        def swap(i,j):
+            nums[i],nums[j] = nums[j],nums[i]
+        i = 0
+
+        while(i<len(nums)):
+            if(0<nums[i]<=len(nums) and nums[i] != nums[nums[i]-1] and nums[i] != i):
+                swap(i,nums[i]-1)
         
-        hash = {}
-        temp = 0
-
-        nums = list(set(nums))
-        nums.sort()
-
-        for i in nums : 
-            if i <= 0 : 
-                pass 
-
-            else : 
-                if i == temp + 1 : 
-                    temp = i
-                else : 
-                    break
-
-        return temp + 1
-                
-      
+            else:
+                i+=1
+        count = 1
+        for i in range(len(nums)):
+            if(count == nums[i]):
+                count+=1
+        return count
