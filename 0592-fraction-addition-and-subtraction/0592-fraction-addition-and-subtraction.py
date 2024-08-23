@@ -27,5 +27,7 @@ class Solution(object):
                 a_0, a_1 = add1(a_0, a_1, b_0, b_1, symbol)
 
         temp = gcd(a_0, a_1)
+        a_0 //= temp
+        a_1 //= temp
 
-        return str(int(a_0) // temp) + '/' + str(int(a_1) // temp)
+        return "{}/{}".format(a_0, a_1)
