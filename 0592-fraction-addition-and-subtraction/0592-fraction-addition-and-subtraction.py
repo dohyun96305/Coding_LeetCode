@@ -20,24 +20,14 @@ class Solution(object):
 
         print(nums, symbols)
         
-        if not nums[0] : 
-            nums = nums[1:]
-
-            a_0, a_1 = map(int, nums[0].split('/'))
-            a_0 *= symbols[0]
-
-            symbols = symbols[1:]
-
-        else : 
-            a_0, a_1 = map(int, nums[0].split('/'))
-
-
-
-        for i in range(1, len(nums)) :
-            b_0, b_1 = map(int, nums[i].split('/'))
-            symbol = symbols[i-1]
-
-            a_0, a_1 = add1(a_0, a_1, b_0, b_1, symbol)
+            # 초기 값 설정
+        a_0, a_1 = 0, 1
+        
+        for i, num in enumerate(nums):
+            if num:
+                b_0, b_1 = map(int, num.split('/'))
+                symbol = symbols[i-1] if i > 0 else 1
+                a_0, a_1 = add1(a_0, a_1, b_0, b_1, symbol)
 
         temp = gcd(a_0, a_1)
 
