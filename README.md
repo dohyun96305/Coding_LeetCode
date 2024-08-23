@@ -192,6 +192,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0626-exchange-seats) |
+| [1172-sales-analysis-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1172-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
