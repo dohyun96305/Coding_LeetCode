@@ -18,9 +18,6 @@ class Solution(object):
         symbols = list(map(lambda x: -1 if x == '-' else 1, re.findall(r'[-+]', expression)))
         nums = re.split(r"[-+]", expression)
 
-        print(nums, symbols)
-        
-            # 초기 값 설정
         a_0, a_1 = 0, 1
         
         for i, num in enumerate(nums):
