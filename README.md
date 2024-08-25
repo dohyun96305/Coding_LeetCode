@@ -218,6 +218,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1862-count-apples-and-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1862-count-apples-and-oranges) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2004-convert-date-format](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2004-convert-date-format) |
+| [2041-the-latest-login-in-2020](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2172-low-quality-problems](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2172-low-quality-problems) |
