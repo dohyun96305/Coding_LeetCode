@@ -193,6 +193,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0626-exchange-seats) |
 | [1172-sales-analysis-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1172-sales-analysis-i) |
+| [1173-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1173-sales-analysis-ii) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1204-new-users-daily-count](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1204-new-users-daily-count) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
