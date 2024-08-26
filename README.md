@@ -235,6 +235,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [3156-rolling-average-steps](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3156-rolling-average-steps) |
 | [3253-symmetric-coordinates](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3253-symmetric-coordinates) |
+| [3286-class-performance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3300-friday-purchases-i) |
 ## Monotonic Stack
