@@ -239,6 +239,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3300-friday-purchases-i) |
 | [3340-snaps-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3340-snaps-analysis) |
+| [3564-premier-league-table-ranking-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3564-premier-league-table-ranking-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
