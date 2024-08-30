@@ -16,12 +16,12 @@ TEMP_RANK AS (
 
 SELECT TEAM_NAME, POINTS, POSITION, 
     CASE
-         WHEN position < (0.33 * (SELECT MAX(position) FROM TEMP_RANK)+1) THEN 'Tier 1'
-         ELSE
-         CASE
-            WHEN position < (0.66 * (SELECT MAX(position) FROM TEMP_RANK)+1) THEN 'Tier 2'
-            ELSE 'Tier 3'
-         END
+        WHEN POSITION < (0.33 * (SELECT MAX(POSITION) FROM TEMP_RANK) + 1) THEN 'Tier 1'
+        ELSE
+            CASE
+                WHEN POSITION < (0.66 * (SELECT MAX(POSITION) FROM TEMP_RANK) + 1) THEN 'Tier 2'
+                ELSE 'Tier 3'
+            END
     END AS tier
 FROM TEMP_RANK
 ORDER BY POINTS DESC, TEAM_NAME
