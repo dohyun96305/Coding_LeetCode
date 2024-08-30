@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+
+# NPV IN EACH QUEREIES 
+
+SELECT A.*, IFNULL(B.NPV, 0) AS NPV
+FROM QUERIES AS A
+LEFT JOIN NPV AS B ON A.ID = B.ID AND A.YEAR = B.YEAR
