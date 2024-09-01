@@ -196,6 +196,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1173-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1173-sales-analysis-ii) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1204-new-users-daily-count](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1204-new-users-daily-count) |
+| [1226-user-purchase-platform](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1226-user-purchase-platform) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
 | [1269-market-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1269-market-analysis-ii) |
