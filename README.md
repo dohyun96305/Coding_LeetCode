@@ -215,6 +215,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1551-npv-queries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1551-npv-queries) |
 | [1565-evaluate-boolean-expression](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1565-evaluate-boolean-expression) |
 | [1607-rectangles-area](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1607-rectangles-area) |
+| [1608-calculate-salaries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1608-calculate-salaries) |
 | [1625-group-sold-products-by-the-date](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1670-patients-with-a-condition) |
