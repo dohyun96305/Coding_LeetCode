@@ -28,6 +28,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2056-jump-game-viii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2056-jump-game-viii) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
@@ -78,6 +79,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0870-magic-squares-in-grid](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
@@ -267,4 +269,8 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
