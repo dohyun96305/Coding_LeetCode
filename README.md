@@ -243,6 +243,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2041-the-latest-login-in-2020](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2064-leetcodify-similar-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2064-leetcodify-similar-friends) |
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
+| [2120-first-and-last-call-on-the-same-day](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2120-first-and-last-call-on-the-same-day) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2172-low-quality-problems](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2172-low-quality-problems) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2185-accepted-candidates-from-the-interviews) |
