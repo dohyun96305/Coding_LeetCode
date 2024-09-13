@@ -249,6 +249,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2172-low-quality-problems](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2172-low-quality-problems) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2185-accepted-candidates-from-the-interviews) |
 | [2214-the-winner-university](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2214-the-winner-university) |
+| [2253-build-the-equation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2253-build-the-equation) |
 | [2281-the-number-of-passengers-in-each-bus-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2281-the-number-of-passengers-in-each-bus-i) |
 | [2315-the-change-in-global-rankings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2315-the-change-in-global-rankings) |
 | [2335-finding-the-topic-of-each-post](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2335-finding-the-topic-of-each-post) |
