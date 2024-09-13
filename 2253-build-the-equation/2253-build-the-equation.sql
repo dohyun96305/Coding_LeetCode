@@ -1,20 +1,15 @@
 # Write your MySQL query statement below
 
 # MAKE EQUATIONS 
-WITH TEMP_0 AS (
-    SELECT *
-    FROM TERMS 
-    ORDER BY POWER DESC
-), 
 
-TEMP_1 AS (
+WITH TEMP_1 AS (
     SELECT POWER, 
         CASE 
             WHEN POWER = 0 THEN FACTOR
             WHEN POWER = 1 THEN CONCAT(FACTOR, 'X')
             ELSE CONCAT(FACTOR, 'X^', POWER)
         END AS EQ1
-    FROM TEMP_0), 
+    FROM TERMS), 
 
 TEMP_2 AS (
     SELECT POWER,
