@@ -255,6 +255,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2534-employees-with-deductions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2534-employees-with-deductions) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
+| [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [3156-rolling-average-steps](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3156-rolling-average-steps) |
 | [3253-symmetric-coordinates](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3253-symmetric-coordinates) |
