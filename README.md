@@ -262,6 +262,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [3156-rolling-average-steps](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3156-rolling-average-steps) |
+| [3160-calculate-orders-within-each-interval](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3160-calculate-orders-within-each-interval) |
 | [3253-symmetric-coordinates](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3253-symmetric-coordinates) |
 | [3257-maximize-items](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3257-maximize-items) |
 | [3286-class-performance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3286-class-performance) |
