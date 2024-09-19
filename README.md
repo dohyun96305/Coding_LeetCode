@@ -48,6 +48,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
@@ -147,6 +148,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0592-fraction-addition-and-subtraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2468-valid-palindrome-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2468-valid-palindrome-iv) |
@@ -286,10 +288,12 @@ Coding Practice - LeetCode, Automatically Sync
 ## Prefix Sum
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
 |  |
