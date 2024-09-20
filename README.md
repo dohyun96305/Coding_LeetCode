@@ -272,6 +272,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3300-friday-purchases-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3300-friday-purchases-i) |
 | [3340-snaps-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3340-snaps-analysis) |
 | [3357-employees-project-allocation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3357-employees-project-allocation) |
+| [3488-find-top-scoring-students](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3488-find-top-scoring-students) |
 | [3505-find-cities-in-each-state](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3549-ceo-subordinate-hierarchy](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3549-ceo-subordinate-hierarchy) |
 | [3554-premier-league-table-ranking](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3554-premier-league-table-ranking) |
