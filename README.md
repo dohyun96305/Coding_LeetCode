@@ -217,6 +217,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1269-market-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1269-market-analysis-ii) |
 | [1328-monthly-transactions-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1328-monthly-transactions-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1339-team-scores-in-football-tournament) |
+| [1377-number-of-comments-per-post](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1377-number-of-comments-per-post) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1415-students-and-examinations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1415-students-and-examinations) |
 | [1425-weather-type-in-each-country](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1425-weather-type-in-each-country) |
