@@ -31,6 +31,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
+| [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
+| [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2056-jump-game-viii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2056-jump-game-viii) |
+| [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -152,6 +155,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2468-valid-palindrome-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2468-valid-palindrome-iv) |
+| [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -188,6 +192,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Database
 |  |
 | ------- |
