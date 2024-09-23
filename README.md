@@ -25,6 +25,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1803-average-waiting-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2056-jump-game-viii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2056-jump-game-viii) |
@@ -50,6 +51,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
@@ -107,6 +109,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
