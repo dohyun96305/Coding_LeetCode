@@ -256,6 +256,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1842-number-of-calls-between-two-persons](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1852-biggest-window-between-visits](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1852-biggest-window-between-visits) |
 | [1862-count-apples-and-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1862-count-apples-and-oranges) |
+| [1898-leetflex-banned-accounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2004-convert-date-format](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2004-convert-date-format) |
 | [2041-the-latest-login-in-2020](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2041-the-latest-login-in-2020) |
