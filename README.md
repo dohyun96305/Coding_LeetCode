@@ -261,6 +261,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1908-recyclable-and-low-fat-products](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1958-ad-free-sessions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1958-ad-free-sessions) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
+| [1998-suspicious-bank-accounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1998-suspicious-bank-accounts) |
 | [2004-convert-date-format](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2004-convert-date-format) |
 | [2041-the-latest-login-in-2020](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2064-leetcodify-similar-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2064-leetcodify-similar-friends) |
