@@ -268,6 +268,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2172-low-quality-problems](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2172-low-quality-problems) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2185-accepted-candidates-from-the-interviews) |
+| [2208-account-balance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2208-account-balance) |
 | [2214-the-winner-university](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2214-the-winner-university) |
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
 | [2253-build-the-equation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2253-build-the-equation) |
