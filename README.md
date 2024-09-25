@@ -250,6 +250,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1718-warehouse-manager](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1718-warehouse-manager) |
 | [1734-bank-account-summary-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
+| [1749-sellers-with-no-sales](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1749-sellers-with-no-sales) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [1795-hopper-company-queries-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1795-hopper-company-queries-iii) |
 | [1811-fix-names-in-a-table](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1811-fix-names-in-a-table) |
