@@ -303,6 +303,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3549-ceo-subordinate-hierarchy](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3549-ceo-subordinate-hierarchy) |
 | [3554-premier-league-table-ranking](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3554-premier-league-table-ranking) |
 | [3564-premier-league-table-ranking-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3564-premier-league-table-ranking-ii) |
+| [3609-calculate-product-final-price](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3609-calculate-product-final-price) |
 ## Monotonic Stack
 |  |
 | ------- |
