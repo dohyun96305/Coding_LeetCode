@@ -206,6 +206,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0185-department-top-three-salaries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0262-trips-and-users) |
+| [0569-median-employee-salary](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0569-median-employee-salary) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0580-count-student-number-in-departments](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0580-count-student-number-in-departments) |
 | [0584-find-customer-referee](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0584-find-customer-referee) |
