@@ -267,6 +267,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [1998-suspicious-bank-accounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1998-suspicious-bank-accounts) |
 | [2004-convert-date-format](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2004-convert-date-format) |
+| [2030-group-employees-of-the-same-salary](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2030-group-employees-of-the-same-salary) |
 | [2041-the-latest-login-in-2020](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2064-leetcodify-similar-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2064-leetcodify-similar-friends) |
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
