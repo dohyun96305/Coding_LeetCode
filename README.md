@@ -312,6 +312,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3357-employees-project-allocation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3357-employees-project-allocation) |
 | [3358-friends-with-no-mutual-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3358-friends-with-no-mutual-friends) |
 | [3440-server-utilization-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3440-server-utilization-time) |
+| [3448-consecutive-available-seats-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3448-consecutive-available-seats-ii) |
 | [3488-find-top-scoring-students](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3488-find-top-scoring-students) |
 | [3505-find-cities-in-each-state](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3549-ceo-subordinate-hierarchy](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3549-ceo-subordinate-hierarchy) |
