@@ -298,6 +298,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [2842-find-active-users](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2842-find-active-users) |
+| [3002-flight-occupancy-and-waitlist-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
 | [3156-rolling-average-steps](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3156-rolling-average-steps) |
 | [3160-calculate-orders-within-each-interval](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3160-calculate-orders-within-each-interval) |
 | [3205-market-analysis-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3205-market-analysis-iii) |
