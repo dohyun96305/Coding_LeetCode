@@ -237,6 +237,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1405-all-people-report-to-the-given-manager](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1415-students-and-examinations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1415-students-and-examinations) |
 | [1425-weather-type-in-each-country](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1425-weather-type-in-each-country) |
+| [1438-find-the-team-size](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1438-find-the-team-size) |
 | [1439-running-total-for-different-genders](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1439-running-total-for-different-genders) |
 | [1452-restaurant-growth](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1452-restaurant-growth) |
 | [1453-ads-performance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1453-ads-performance) |
