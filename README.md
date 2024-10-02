@@ -225,6 +225,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1173-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1173-sales-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1182-game-play-analysis-iv) |
+| [1193-game-play-analysis-v](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1193-game-play-analysis-v) |
 | [1198-unpopular-books](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1198-unpopular-books) |
 | [1204-new-users-daily-count](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1204-new-users-daily-count) |
 | [1214-highest-grade-for-each-student](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1214-highest-grade-for-each-student) |
