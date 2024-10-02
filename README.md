@@ -234,6 +234,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
 | [1269-market-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1269-market-analysis-ii) |
+| [1318-tournament-winners](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1318-tournament-winners) |
 | [1328-monthly-transactions-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1328-monthly-transactions-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 | [1377-number-of-comments-per-post](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1377-number-of-comments-per-post) |
