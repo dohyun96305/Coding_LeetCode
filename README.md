@@ -316,6 +316,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3205-market-analysis-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3205-market-analysis-iii) |
 | [3253-symmetric-coordinates](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3253-symmetric-coordinates) |
 | [3257-maximize-items](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3257-maximize-items) |
+| [3281-find-peak-calling-hours-for-each-city](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3282-calculate-compressed-mean](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3282-calculate-compressed-mean) |
 | [3286-class-performance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
