@@ -5,9 +5,9 @@
 
 WITH TEMP AS (
     SELECT A.USER_ID, A.USER_NAME, 
-    (A.CREDIT - IFNULL(SUM(CASE 
-                            WHEN A.USER_ID = B.PAID_BY THEN B.AMOUNT
-                            WHEN A.USER_ID = B.PAID_TO THEN -1 * B.AMOUNT
+    (A.CREDIT + IFNULL(SUM(CASE 
+                            WHEN A.USER_ID = B.PAID_BY THEN -1 * B.AMOUNT
+                            WHEN A.USER_ID = B.PAID_TO THEN B.AMOUNT
                            END), 0)) AS CREDIT
     FROM USERS AS A
     LEFT JOIN TRANSACTIONS AS B ON A.USER_ID = B.PAID_BY OR A.USER_ID = B.PAID_TO
