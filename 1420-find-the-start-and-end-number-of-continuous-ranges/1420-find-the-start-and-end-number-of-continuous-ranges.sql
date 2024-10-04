@@ -1,0 +1,10 @@
+# Write your MySQL query statement below
+
+WITH TEMP AS (
+    SELECT *, 
+    LOG_ID - RANK() OVER (ORDER BY LOG_ID) AS SUB1
+    FROM LOGS)
+
+SELECT MIN(LOG_ID) AS START_ID, MAX(LOG_ID) AS END_ID
+FROM TEMP
+GROUP BY SUB1
