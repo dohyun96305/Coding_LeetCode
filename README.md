@@ -240,6 +240,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1377-number-of-comments-per-post](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1377-number-of-comments-per-post) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1415-students-and-examinations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1415-students-and-examinations) |
+| [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1425-weather-type-in-each-country](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1438-find-the-team-size) |
 | [1439-running-total-for-different-genders](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1439-running-total-for-different-genders) |
