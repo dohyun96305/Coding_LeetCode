@@ -288,6 +288,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2014-orders-with-maximum-quantity-above-average](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2014-orders-with-maximum-quantity-above-average) |
 | [2030-group-employees-of-the-same-salary](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2030-group-employees-of-the-same-salary) |
 | [2041-the-latest-login-in-2020](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2041-the-latest-login-in-2020) |
+| [2046-page-recommendations-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2046-page-recommendations-ii) |
 | [2064-leetcodify-similar-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2064-leetcodify-similar-friends) |
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
 | [2098-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2098-all-the-pairs-with-the-maximum-number-of-common-followers) |
