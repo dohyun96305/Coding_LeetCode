@@ -312,6 +312,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2431-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2431-products-with-three-or-more-orders-in-two-consecutive-years) |
 | [2440-tasks-count-in-the-weekend](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2440-tasks-count-in-the-weekend) |
 | [2446-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2446-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
+| [2453-all-the-matches-of-the-league](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2453-all-the-matches-of-the-league) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2516-sort-the-olympic-table](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2516-sort-the-olympic-table) |
