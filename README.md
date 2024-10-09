@@ -344,6 +344,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3488-find-top-scoring-students](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3488-find-top-scoring-students) |
 | [3505-find-cities-in-each-state](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3512-bitwise-user-permissions-analysis) |
+| [3520-year-on-year-growth-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3520-year-on-year-growth-rate) |
 | [3530-odd-and-even-transactions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3530-odd-and-even-transactions) |
 | [3549-ceo-subordinate-hierarchy](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3549-ceo-subordinate-hierarchy) |
 | [3554-premier-league-table-ranking](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3554-premier-league-table-ranking) |
