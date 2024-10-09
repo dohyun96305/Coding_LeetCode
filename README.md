@@ -223,6 +223,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0618-students-report-by-geography](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0618-students-report-by-geography) |
 | [0619-biggest-single-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0626-exchange-seats) |
+| [1154-product-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1154-product-sales-analysis-ii) |
 | [1163-project-employees-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1163-project-employees-iii) |
 | [1172-sales-analysis-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1172-sales-analysis-i) |
 | [1173-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1173-sales-analysis-ii) |
