@@ -316,6 +316,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2453-all-the-matches-of-the-league](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2453-all-the-matches-of-the-league) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [2501-generate-the-invoice](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2501-generate-the-invoice) |
 | [2516-sort-the-olympic-table](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2516-sort-the-olympic-table) |
 | [2534-employees-with-deductions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2534-employees-with-deductions) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
