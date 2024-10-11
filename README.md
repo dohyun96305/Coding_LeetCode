@@ -339,6 +339,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
 | [3300-friday-purchases-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3300-friday-purchases-i) |
 | [3301-friday-purchases-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3301-friday-purchases-ii) |
+| [3302-viewers-turned-streamers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3302-viewers-turned-streamers) |
 | [3340-snaps-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3340-snaps-analysis) |
 | [3357-employees-project-allocation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3357-employees-project-allocation) |
 | [3358-friends-with-no-mutual-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3358-friends-with-no-mutual-friends) |
