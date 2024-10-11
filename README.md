@@ -318,6 +318,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2501-generate-the-invoice](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2501-generate-the-invoice) |
 | [2516-sort-the-olympic-table](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2516-sort-the-olympic-table) |
+| [2523-change-null-values-in-a-table-to-the-previous-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2523-change-null-values-in-a-table-to-the-previous-value) |
 | [2534-employees-with-deductions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2534-employees-with-deductions) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
