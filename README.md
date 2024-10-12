@@ -235,6 +235,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1204-new-users-daily-count](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1204-new-users-daily-count) |
 | [1214-highest-grade-for-each-student](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1214-highest-grade-for-each-student) |
 | [1215-reported-posts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1215-reported-posts) |
+| [1225-active-businesses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1225-active-businesses) |
 | [1226-user-purchase-platform](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1226-user-purchase-platform) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
