@@ -334,6 +334,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3257-maximize-items](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3257-maximize-items) |
 | [3281-find-peak-calling-hours-for-each-city](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3282-calculate-compressed-mean](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3282-calculate-compressed-mean) |
+| [3283-find-third-transaction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3283-find-third-transaction) |
 | [3284-find-expensive-cities](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3284-find-expensive-cities) |
 | [3286-class-performance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
