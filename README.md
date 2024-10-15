@@ -272,6 +272,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1664-find-users-with-valid-e-mails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1671-the-most-recent-three-orders](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1671-the-most-recent-three-orders) |
+| [1688-the-most-recent-orders-for-each-product](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1702-bank-account-summary](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1702-bank-account-summary) |
 | [1712-unique-orders-and-customers-per-month](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1718-warehouse-manager](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1718-warehouse-manager) |
