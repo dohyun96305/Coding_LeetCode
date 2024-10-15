@@ -300,6 +300,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2046-page-recommendations-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2046-page-recommendations-ii) |
 | [2064-leetcodify-similar-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2064-leetcodify-similar-friends) |
 | [2087-confirmation-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2087-confirmation-rate) |
+| [2097-strong-friendship](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2097-strong-friendship) |
 | [2098-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2098-all-the-pairs-with-the-maximum-number-of-common-followers) |
 | [2120-first-and-last-call-on-the-same-day](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2120-first-and-last-call-on-the-same-day) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
