@@ -255,6 +255,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1462-list-the-products-ordered-in-a-period](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1467-number-of-transactions-per-visit](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1467-number-of-transactions-per-visit) |
 | [1480-movie-rating](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1480-movie-rating) |
+| [1494-activity-participants](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1494-activity-participants) |
 | [1495-number-of-trusted-contacts-of-a-customer](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
 | [1523-capital-gainloss](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1541-top-travellers) |
