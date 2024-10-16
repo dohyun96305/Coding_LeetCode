@@ -269,6 +269,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1608-calculate-salaries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1608-calculate-salaries) |
 | [1623-sales-by-day-of-the-week](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1623-sales-by-day-of-the-week) |
 | [1625-group-sold-products-by-the-date](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1625-group-sold-products-by-the-date) |
+| [1639-friendly-movies-streamed-last-month](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
