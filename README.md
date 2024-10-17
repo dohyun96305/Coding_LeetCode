@@ -311,6 +311,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2120-first-and-last-call-on-the-same-day](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2120-first-and-last-call-on-the-same-day) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2136-find-cutoff-score-for-each-school](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2136-find-cutoff-score-for-each-school) |
+| [2143-count-the-number-of-experiments](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2143-count-the-number-of-experiments) |
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2167-number-of-accounts-that-did-not-stream) |
 | [2172-low-quality-problems](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2172-low-quality-problems) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2185-accepted-candidates-from-the-interviews) |
