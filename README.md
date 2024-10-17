@@ -240,6 +240,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1215-reported-posts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1215-reported-posts) |
 | [1225-active-businesses](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1225-active-businesses) |
 | [1226-user-purchase-platform](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1226-user-purchase-platform) |
+| [1237-reported-posts-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1237-reported-posts-ii) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
 | [1269-market-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1269-market-analysis-ii) |
