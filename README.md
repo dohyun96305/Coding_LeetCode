@@ -363,6 +363,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3340-snaps-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3340-snaps-analysis) |
 | [3357-employees-project-allocation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3357-employees-project-allocation) |
 | [3358-friends-with-no-mutual-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3358-friends-with-no-mutual-friends) |
+| [3424-friday-purchase-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3424-friday-purchase-iii) |
 | [3440-server-utilization-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3440-server-utilization-time) |
 | [3448-consecutive-available-seats-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3448-consecutive-available-seats-ii) |
 | [3488-find-top-scoring-students](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3488-find-top-scoring-students) |
