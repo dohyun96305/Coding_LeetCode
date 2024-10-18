@@ -295,6 +295,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1862-count-apples-and-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1862-count-apples-and-oranges) |
 | [1898-leetflex-banned-accounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1932-grand-slam-titles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1932-grand-slam-titles) |
 | [1958-ad-free-sessions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1958-ad-free-sessions) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [1991-league-statistics](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1991-league-statistics) |
