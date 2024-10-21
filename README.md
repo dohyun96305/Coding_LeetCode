@@ -288,6 +288,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1749-sellers-with-no-sales](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1749-sellers-with-no-sales) |
 | [1759-find-the-missing-ids](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1759-find-the-missing-ids) |
 | [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
+| [1779-hopper-company-queries-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1779-hopper-company-queries-i) |
 | [1785-hopper-company-queries-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1785-hopper-company-queries-ii) |
 | [1795-hopper-company-queries-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1795-hopper-company-queries-iii) |
 | [1811-fix-names-in-a-table](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1811-fix-names-in-a-table) |
