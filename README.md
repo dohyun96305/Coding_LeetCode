@@ -329,6 +329,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
 | [2253-build-the-equation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2253-build-the-equation) |
 | [2281-the-number-of-passengers-in-each-bus-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2281-the-number-of-passengers-in-each-bus-i) |
+| [2302-order-two-columns-independently](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2302-order-two-columns-independently) |
 | [2315-the-change-in-global-rankings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2315-the-change-in-global-rankings) |
 | [2335-finding-the-topic-of-each-post](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2335-finding-the-topic-of-each-post) |
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
