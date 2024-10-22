@@ -381,6 +381,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3512-bitwise-user-permissions-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3520-year-on-year-growth-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3520-year-on-year-growth-rate) |
 | [3530-odd-and-even-transactions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3530-odd-and-even-transactions) |
+| [3539-customer-purchasing-behavior-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3539-customer-purchasing-behavior-analysis) |
 | [3549-ceo-subordinate-hierarchy](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3549-ceo-subordinate-hierarchy) |
 | [3554-premier-league-table-ranking](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3554-premier-league-table-ranking) |
 | [3564-premier-league-table-ranking-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3564-premier-league-table-ranking-ii) |
