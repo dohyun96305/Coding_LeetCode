@@ -269,6 +269,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1546-find-the-quiet-students-in-all-exams](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1551-npv-queries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1551-npv-queries) |
 | [1565-evaluate-boolean-expression](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1565-evaluate-boolean-expression) |
+| [1578-apples-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1578-apples-oranges) |
 | [1579-active-users](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1579-active-users) |
 | [1607-rectangles-area](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1607-rectangles-area) |
 | [1608-calculate-salaries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1608-calculate-salaries) |
