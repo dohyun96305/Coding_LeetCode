@@ -352,6 +352,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2613-customers-with-strictly-increasing-purchases](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2613-customers-with-strictly-increasing-purchases) |
 | [2643-concatenate-the-name-and-the-profession](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2643-concatenate-the-name-and-the-profession) |
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
+| [2840-immediate-food-delivery-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2840-immediate-food-delivery-iii) |
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [2842-find-active-users](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2842-find-active-users) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
