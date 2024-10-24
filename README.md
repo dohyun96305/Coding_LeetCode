@@ -326,6 +326,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2167-number-of-accounts-that-did-not-stream](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2167-number-of-accounts-that-did-not-stream) |
 | [2172-low-quality-problems](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2172-low-quality-problems) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2185-accepted-candidates-from-the-interviews) |
+| [2194-the-category-of-each-member-in-the-store](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2194-the-category-of-each-member-in-the-store) |
 | [2208-account-balance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2208-account-balance) |
 | [2214-the-winner-university](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2214-the-winner-university) |
 | [2224-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2224-drop-type-1-orders-for-customers-with-type-0-orders) |
