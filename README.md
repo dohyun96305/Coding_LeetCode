@@ -251,6 +251,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1318-tournament-winners](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1318-tournament-winners) |
 | [1328-monthly-transactions-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1328-monthly-transactions-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1339-team-scores-in-football-tournament) |
+| [1357-report-contiguous-dates](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1357-report-contiguous-dates) |
 | [1377-number-of-comments-per-post](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1377-number-of-comments-per-post) |
 | [1399-page-recommendations](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1399-page-recommendations) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1405-all-people-report-to-the-given-manager) |
