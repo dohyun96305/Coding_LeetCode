@@ -400,6 +400,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3554-premier-league-table-ranking](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3554-premier-league-table-ranking) |
 | [3564-premier-league-table-ranking-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3564-premier-league-table-ranking-ii) |
 | [3574-find-overlapping-shifts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3574-find-overlapping-shifts) |
+| [3589-find-candidates-for-data-scientist-position-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3589-find-candidates-for-data-scientist-position-ii) |
 | [3609-calculate-product-final-price](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3609-calculate-product-final-price) |
 | [3624-find-top-performing-driver](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3624-find-top-performing-driver) |
 ## Monotonic Stack
