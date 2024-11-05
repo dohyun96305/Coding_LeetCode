@@ -33,6 +33,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2468-valid-palindrome-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2468-valid-palindrome-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
 | [3451-string-compression-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
@@ -419,6 +423,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
 ## Sliding Window
 |  |
 | ------- |
