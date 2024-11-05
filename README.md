@@ -159,6 +159,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2468-valid-palindrome-iv](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2468-valid-palindrome-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
