@@ -343,6 +343,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2336-the-number-of-users-that-are-eligible-for-discount](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2336-the-number-of-users-that-are-eligible-for-discount) |
 | [2370-users-with-two-purchases-within-seven-days](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2370-users-with-two-purchases-within-seven-days) |
 | [2371-the-users-that-are-eligible-for-discount](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2371-the-users-that-are-eligible-for-discount) |
+| [2376-number-of-times-a-driver-was-a-passenger](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
 | [2431-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2431-products-with-three-or-more-orders-in-two-consecutive-years) |
 | [2440-tasks-count-in-the-weekend](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2440-tasks-count-in-the-weekend) |
 | [2441-arrange-table-by-gender](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2441-arrange-table-by-gender) |
