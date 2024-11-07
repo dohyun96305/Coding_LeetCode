@@ -34,6 +34,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2634-minimum-common-value](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
+| [3291-find-if-array-can-be-sorted](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3291-find-if-array-can-be-sorted](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
