@@ -27,6 +27,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1803-average-waiting-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1803-average-waiting-time) |
+| [1940-maximum-xor-for-each-query](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2056-jump-game-viii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2056-jump-game-viii) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -62,6 +63,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
@@ -429,6 +431,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1940-maximum-xor-for-each-query](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3247-number-of-same-end-substrings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3247-number-of-same-end-substrings) |
 ## Sliding Window
