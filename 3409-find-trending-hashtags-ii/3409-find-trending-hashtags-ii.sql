@@ -11,7 +11,6 @@
 -- [^\\s] => 공백이 아닌 모든 문자 매칭
 -- + => 앞의 표현식에 대해 1회 이상 반복, 공백일 때까지 반복 
 
-
 WITH RECURSIVE HASHTAGS_TWEETS AS (
     SELECT 
         REGEXP_SUBSTR(TWEET, '#[^\\s]+') AS HASHTAG,                -- TWEET에서 '#[^//S+]' 매칭되는 첫번째 반환
