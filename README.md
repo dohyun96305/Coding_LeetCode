@@ -394,6 +394,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3285-manager-of-the-largest-department](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3285-manager-of-the-largest-department) |
 | [3286-class-performance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3286-class-performance) |
 | [3287-loan-types](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3287-loan-types) |
+| [3288-top-three-wineries](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3288-top-three-wineries) |
 | [3300-friday-purchases-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3300-friday-purchases-i) |
 | [3301-friday-purchases-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3301-friday-purchases-ii) |
 | [3302-viewers-turned-streamers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3302-viewers-turned-streamers) |
