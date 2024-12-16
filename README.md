@@ -379,6 +379,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [2841-bikes-last-time-used](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2841-bikes-last-time-used) |
 | [2842-find-active-users](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2842-find-active-users) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
+| [2874-popularity-percentage](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2874-popularity-percentage) |
 | [3002-flight-occupancy-and-waitlist-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3002-flight-occupancy-and-waitlist-analysis) |
 | [3097-total-traveled-distance](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3097-total-traveled-distance) |
 | [3156-rolling-average-steps](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3156-rolling-average-steps) |
