@@ -416,6 +416,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3473-calculate-parking-fees-and-duration](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3473-calculate-parking-fees-and-duration) |
 | [3481-second-day-verification](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3481-second-day-verification) |
 | [3488-find-top-scoring-students](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3488-find-top-scoring-students) |
+| [3503-find-top-scoring-students-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3503-find-top-scoring-students-ii) |
 | [3505-find-cities-in-each-state](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3505-find-cities-in-each-state) |
 | [3512-bitwise-user-permissions-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3512-bitwise-user-permissions-analysis) |
 | [3520-year-on-year-growth-rate](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3520-year-on-year-growth-rate) |
