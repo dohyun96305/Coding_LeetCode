@@ -247,6 +247,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0627-swap-salary](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1154-product-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1154-product-sales-analysis-ii) |
+| [1162-project-employees-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1162-project-employees-ii) |
 | [1163-project-employees-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1163-project-employees-iii) |
 | [1172-sales-analysis-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1172-sales-analysis-i) |
 | [1173-sales-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1173-sales-analysis-ii) |
