@@ -408,6 +408,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3357-employees-project-allocation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3357-employees-project-allocation) |
 | [3358-friends-with-no-mutual-friends](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3358-friends-with-no-mutual-friends) |
 | [3369-calculate-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3369-calculate-trapping-rain-water) |
+| [3392-find-trending-hashtags](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3392-find-trending-hashtags) |
 | [3409-find-trending-hashtags-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3409-find-trending-hashtags-ii) |
 | [3424-friday-purchase-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3424-friday-purchase-iii) |
 | [3432-find-longest-calls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3432-find-longest-calls) |
