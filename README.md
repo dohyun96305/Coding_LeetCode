@@ -30,6 +30,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1940-maximum-xor-for-each-query](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2056-jump-game-viii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2056-jump-game-viii) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -106,6 +107,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0917-boats-to-save-people](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -119,6 +121,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -206,6 +209,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Trie
 |  |
 | ------- |
