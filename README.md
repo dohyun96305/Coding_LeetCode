@@ -442,6 +442,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3609-calculate-product-final-price](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3609-calculate-product-final-price) |
 | [3624-find-top-performing-driver](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3624-find-top-performing-driver) |
 | [3695-books-with-null-ratings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3695-books-with-null-ratings) |
+| [3719-team-dominance-by-pass-success](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3719-team-dominance-by-pass-success) |
 ## Monotonic Stack
 |  |
 | ------- |
