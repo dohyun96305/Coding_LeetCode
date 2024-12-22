@@ -274,6 +274,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1258-article-views-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1259-article-views-ii) |
 | [1269-market-analysis-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1269-market-analysis-ii) |
+| [1291-immediate-food-delivery-i](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1291-immediate-food-delivery-i) |
 | [1318-tournament-winners](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1318-tournament-winners) |
 | [1328-monthly-transactions-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1328-monthly-transactions-ii) |
 | [1339-team-scores-in-football-tournament](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1339-team-scores-in-football-tournament) |
