@@ -12,6 +12,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -44,6 +45,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0917-boats-to-save-people) |
@@ -192,6 +194,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1642-water-bottles) |
