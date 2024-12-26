@@ -6,6 +6,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
@@ -44,6 +45,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
