@@ -411,6 +411,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3255-pizza-toppings-cost-analysis](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3255-pizza-toppings-cost-analysis) |
 | [3256-find-candidates-for-data-scientist-position](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3256-find-candidates-for-data-scientist-position) |
 | [3257-maximize-items](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3257-maximize-items) |
+| [3258-classifying-triangles-by-lengths](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3258-classifying-triangles-by-lengths) |
 | [3259-binary-tree-nodes](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3259-binary-tree-nodes) |
 | [3281-find-peak-calling-hours-for-each-city](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3281-find-peak-calling-hours-for-each-city) |
 | [3282-calculate-compressed-mean](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3282-calculate-compressed-mean) |
