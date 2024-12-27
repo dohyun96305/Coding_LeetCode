@@ -339,6 +339,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [1842-number-of-calls-between-two-persons](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1842-number-of-calls-between-two-persons) |
 | [1852-biggest-window-between-visits](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1852-biggest-window-between-visits) |
 | [1862-count-apples-and-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1862-count-apples-and-oranges) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1898-leetflex-banned-accounts](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1914-find-the-subtasks-that-did-not-execute](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1914-find-the-subtasks-that-did-not-execute) |
