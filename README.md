@@ -455,6 +455,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [3589-find-candidates-for-data-scientist-position-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3589-find-candidates-for-data-scientist-position-ii) |
 | [3609-calculate-product-final-price](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3609-calculate-product-final-price) |
 | [3624-find-top-performing-driver](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3624-find-top-performing-driver) |
+| [3642-premier-league-table-ranking-iii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3642-premier-league-table-ranking-iii) |
 | [3660-second-highest-salary-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3660-second-highest-salary-ii) |
 | [3695-books-with-null-ratings](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3695-books-with-null-ratings) |
 | [3719-team-dominance-by-pass-success](https://github.com/dohyun96305/Coding_LeetCode/tree/master/3719-team-dominance-by-pass-success) |
