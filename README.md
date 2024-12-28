@@ -48,6 +48,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0027-remove-element](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -140,6 +141,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0086-partition-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
