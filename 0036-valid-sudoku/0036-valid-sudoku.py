@@ -1,42 +1,30 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        def check_sq(a, b, board) : 
-            temp = {}
+        def check_sq(row, board) : 
+            temp = []
 
-            for i in range(a, a+3) :
-                for j in range(b, b+3) : 
-                    if board[i][j] != '.' : 
-                        if board[i][j] in temp.keys() : 
-                            return False
+            for i in row : 
+                if i != '.' : 
+                    if i in temp :
+                        return False
 
-                        else :
-                            temp[board[i][j]] = 1 
+                    temp.append(i)
                 
             return True
             
         for i in range(9) : 
-            temp = {}
-            for j in board[i] : 
-                if j != '.' : 
-                    if j in temp.keys() : 
-                        return False
-                    else :
-                        temp[j] = 1 
-        
-        for i in range(9) : 
-            temp = {}
-            for j in range(9) : 
-                if board[j][i] != '.' : 
-                    if board[j][i] in temp.keys() : 
-                        return False
-
-                    else :
-                        temp[board[j][i]] = 1 
+            if not check_sq(board[i], board) : 
+                return False
 
         for i in range(9) : 
-            for j in range(9) : 
-                if i in (0, 3, 6) and j in (0, 3, 6) : 
-                    if not check_sq(i, j, board) : 
-                        return False
+            row = [board[j][i] for j in range(9)]
+            if not check_sq(row, board) : 
+                return False
+
+        for i in range(0, 9, 3) : 
+            for j in range(0, 9, 3) : 
+                row = [board[a][b] for a in range(i, i+3) for b in range(j, j+3)]
+                if not check_sq(row, board) : 
+                    return False
 
         return True
