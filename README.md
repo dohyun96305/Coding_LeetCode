@@ -7,6 +7,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
@@ -86,6 +87,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -94,6 +96,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
