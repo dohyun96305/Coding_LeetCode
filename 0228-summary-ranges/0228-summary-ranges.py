@@ -18,7 +18,7 @@ class Solution:
                     answer.append(str(temp[0]))
 
                 else : 
-                    answer.append((str(temp[0]) + '->' + str(temp[-1])))
+                    answer.append(f'{temp[0]}->{temp[-1]}')
                 
                 temp = [nums[i]]
 
@@ -26,7 +26,7 @@ class Solution:
             answer.append(str(temp[0]))
 
         else : 
-            answer.append((str(temp[0]) + '->' + str(temp[-1])))
+            answer.append(f'{temp[0]}->{temp[-1]}')
 
 
         return answer
