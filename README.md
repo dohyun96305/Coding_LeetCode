@@ -20,6 +20,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +68,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -491,6 +493,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1940-maximum-xor-for-each-query](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -499,6 +502,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
