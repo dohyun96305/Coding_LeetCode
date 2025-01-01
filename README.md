@@ -10,6 +10,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0036-valid-sudoku](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -116,6 +117,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0624-maximum-distance-in-arrays](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -170,6 +172,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
