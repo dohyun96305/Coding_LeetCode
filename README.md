@@ -155,6 +155,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
@@ -499,6 +500,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -508,4 +510,12 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
