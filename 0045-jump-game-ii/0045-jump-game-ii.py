@@ -11,6 +11,4 @@ class Solution:
                 answer += 1 
                 cur_end = cur_far 
 
-            print(cur_end, cur_far, answer)
-
         return answer
