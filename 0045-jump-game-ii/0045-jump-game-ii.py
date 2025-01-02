@@ -1,11 +1,16 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        jump_cnt = [float('inf')] * (len(nums))
-        jump_cnt[0] = 0 
+        answer = 0
+        n = len(nums)
+        cur_end, cur_far = 0, 0
 
-        for i in range(len(nums)) : 
-            for j in range(i, i + nums[i] + 1) :    
-                if j < len(nums) : 
-                    jump_cnt[j] = min(jump_cnt[j], jump_cnt[i] + 1) 
+        for i in range(n - 1) :
+            cur_far = max(cur_far, i + nums[i])
 
-        return jump_cnt[-1]
+            if i == cur_end : 
+                answer += 1 
+                cur_end = cur_far 
+
+            print(cur_end, cur_far, answer)
+
+        return answer
