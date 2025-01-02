@@ -109,6 +109,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [0870-magic-squares-in-grid](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -166,6 +167,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
+| [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 ## Heap (Priority Queue)
@@ -197,6 +199,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
 | [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
