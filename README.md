@@ -518,6 +518,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Union Find
 |  |
 | ------- |
@@ -530,8 +531,14 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
