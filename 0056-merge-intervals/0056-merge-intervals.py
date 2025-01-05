@@ -6,7 +6,7 @@ class Solution:
         start, end = intervals[0]
         temp = []
 
-        while i < len(intervals) : 
+        for i in range(1, len(intervals)) : 
             a, b = intervals[i]
 
             if end >= a : 
