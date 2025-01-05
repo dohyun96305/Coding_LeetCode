@@ -26,6 +26,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0228-summary-ranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0624-maximum-distance-in-arrays](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
@@ -108,6 +109,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0036-valid-sudoku](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
@@ -227,6 +229,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1642-water-bottles) |
@@ -542,4 +545,12 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
