@@ -230,6 +230,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
