@@ -164,6 +164,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0086-partition-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
@@ -534,6 +535,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Tree
 |  |
 | ------- |
