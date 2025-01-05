@@ -12,6 +12,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -140,6 +141,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0056-merge-intervals) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0876-hand-of-straights) |
