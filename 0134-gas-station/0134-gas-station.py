@@ -1,6 +1,6 @@
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        n = len(gas) # 5
+        n = len(gas) 
 
         if n == 1 : 
             if gas[0] >= cost[0] : 
