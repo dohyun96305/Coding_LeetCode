@@ -33,7 +33,6 @@ class Solution:
                 else : 
                     answer.append(digits[cnt * 5] + digits[cnt] * (temp_val - 5))
 
-        
             num //= 10
             cnt *= 10
 
