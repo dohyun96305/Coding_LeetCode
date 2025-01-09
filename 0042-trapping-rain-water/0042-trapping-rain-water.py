@@ -1,25 +1,18 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-        if len(height) < 3:
-            return 0
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        height_left = []
+        height_right = []
 
-        trap_water = 0
-        left, right = 0, len(height) - 1
-        l_max, r_max = height[left], height[right]
+        left_temp = 0
+        for i in height :
+            left_temp = max(left_temp, i)
+            height_left.append(left_temp)
 
-        while (left < right):
-            l_max, r_max = max(l_max, height[left]), max(r_max, height[right])
-
-            if l_max <= r_max:
-                trap_water += l_max - height[left]
-                left += 1
-
-            else:
-                trap_water += r_max - height[right]
-                right -= 1
-
-        return trap_water
+        right_temp = 0
+        for i in height[::-1] : 
+            right_temp = max(right_temp, i)
+            height_right.append(right_temp)
+        
+        temp = [min(a, b) for a, b in zip(height_left, height_right[::-1])]
+        
+        return sum(b-a for a, b in zip(height, temp))
