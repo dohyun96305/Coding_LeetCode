@@ -30,6 +30,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0228-summary-ranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0624-maximum-distance-in-arrays](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -183,6 +184,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0753-open-the-lock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0753-open-the-lock) |
@@ -201,6 +203,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
+| [0322-coin-change](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0322-coin-change) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2056-jump-game-viii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2056-jump-game-viii) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
