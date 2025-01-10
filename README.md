@@ -183,6 +183,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -560,12 +561,14 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
