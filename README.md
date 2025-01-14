@@ -18,6 +18,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0135-candy) |
@@ -120,6 +121,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0013-roman-to-integer](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
@@ -556,6 +558,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 ## Recursion
