@@ -221,6 +221,7 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0012-integer-to-roman](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
@@ -280,6 +281,7 @@ Coding Practice - LeetCode, Automatically Sync
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Database
