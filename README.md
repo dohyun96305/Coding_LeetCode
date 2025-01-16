@@ -65,6 +65,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0086-partition-list) |
@@ -227,6 +228,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0012-integer-to-roman](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
@@ -601,4 +603,8 @@ Coding Practice - LeetCode, Automatically Sync
 | ------- |
 | [0190-reverse-bits](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0191-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
