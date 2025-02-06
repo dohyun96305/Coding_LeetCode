@@ -70,6 +70,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0042-trapping-rain-water](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -233,6 +234,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0014-longest-common-prefix](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0433-minimum-genetic-mutation) |
