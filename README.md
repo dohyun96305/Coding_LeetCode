@@ -35,6 +35,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0228-summary-ranges](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0624-maximum-distance-in-arrays](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -118,6 +119,7 @@ Coding Practice - LeetCode, Automatically Sync
 | [0130-surrounded-regions](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0289-game-of-life) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0870-magic-squares-in-grid](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1331-path-with-maximum-gold](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -256,6 +258,7 @@ Coding Practice - LeetCode, Automatically Sync
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dohyun96305/Coding_LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/dohyun96305/Coding_LeetCode/tree/master/1803-average-waiting-time) |
